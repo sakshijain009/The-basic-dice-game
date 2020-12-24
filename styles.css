@@ -1,0 +1,67 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: beige;
+}
+
+body div h4{
+  color: white;
+  line-height: 40px;
+  font-family: 'Lobster', cursive;
+  padding-left: 10px;
+  text-shadow: 2px 2px gray;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: tomato;
+}
+
+p {
+  font-size: 2rem;
+  color: red;
+  font-family: 'Indie Flower', cursive;
+}
+
+#button{
+  margin: 20px;
+  padding: 5px 30px 5px 30px;
+  cursor: pointer;
+  border:none;
+  box-shadow: 2px 2px black;
+  color: white;
+  background-color: tomato;
+  border-radius: 7px;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: black;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  margin-bottom: 5%;
+}
